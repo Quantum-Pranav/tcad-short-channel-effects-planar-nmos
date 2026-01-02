@@ -6,7 +6,8 @@ TCAD-based study of short-channel effects in planar NMOS, focusing on threshold 
 This repository contains an independent TCAD-based study of short-channel effects in a planar NMOS transistor using Synopsys Sentaurus.
 
 ## Objective
-To analyze threshold voltage roll-off and drain-induced barrier lowering (DIBL) by scaling the gate length from 60 nm to 30 nm.
+To analyze threshold voltage roll-off and drain-induced barrier lowering (DIBL) by scaling the gate length across 60 nm, 45 nm, and 30 nm.
+
 
 ## Methodology
 - Planar NMOS device constructed using Sentaurus SDE
